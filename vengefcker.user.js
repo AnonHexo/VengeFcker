@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         VengeFcker Public
 // @version      1
-// @description  Venge.io script
+// @description  Venge.io is Trash 
 // @author       AnonHexo#3411
 // @match        *://*venge.io/*
 // @require      https://raw.githubusercontent.com/AnonHexo/VengeFcker/main/src/vengefcker.js
