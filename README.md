@@ -2,8 +2,7 @@
 > ### Press <a href="https://github.com/AnonHexo/VengeFcker/raw/main/vengefcker.user.js">here</a> to install using any userscript manager (eg: Tampermonkey, Greasemonkey)
 ---
 > # Activating script
-> #### *To activate the script you'll need to follow the link and proceed with all the requests, then you should have unlocked the script for ever. (this is a one-time-only process)* <br>
-> #### *If you have any problem contact me on Discord: AnonHexo#3411*
+> #### *To activate the script you'll need to follow the link and proceed with all the requests, then you should have unlocked the script for ever. (this is a one-time-only process)*
 ---
 # Features
 - **ESP** - Always ON
